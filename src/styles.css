@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* background-image: url("https://www.npr.org/assets/img/2020/01/28/LK_Lightbulbs_harlan.gif"); */
+}
+.list {
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+
+  background-color: palevioletred;
+}
+.suggestions {
+  background-color: darkcyan;
+}
+.topheading {
+  background-color: lightcoral;
+  border-radius: "4rem";
+}
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://www.npr.org/assets/img/2020/01/28/LK_Lightbulbs_harlan.gif");
+}
